@@ -20,7 +20,6 @@ public class SerializableDictionary<TKey, TValue> : IDictionary<TKey, TValue>, I
     int[] _Next;
     [SerializeField]
     int _Count;
-    [SerializeField]
     int _Version;
     [SerializeField]
     int _FreeList;
