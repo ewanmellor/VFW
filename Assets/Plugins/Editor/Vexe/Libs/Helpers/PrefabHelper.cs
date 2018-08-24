@@ -54,7 +54,7 @@ namespace Vexe.Editor.Helpers
 		{
 			PrefabUtility.ReplacePrefab(
 				prefabInstance,
-				PrefabUtility.GetPrefabParent(prefabInstance),
+				PrefabUtility.GetCorrespondingObjectFromSource(prefabInstance),
 				ReplacePrefabOptions.ConnectToPrefab);
 		}
 	}
