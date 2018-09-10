@@ -1,0 +1,13 @@
+{
+    "name": "VFWExamples",
+    "references": [
+        "VFW",
+        "VexeEditor"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

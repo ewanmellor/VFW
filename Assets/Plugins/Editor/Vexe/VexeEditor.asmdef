@@ -1,0 +1,12 @@
+{
+    "name": "VexeEditor",
+    "references": [
+        "VFW"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
